@@ -13,10 +13,6 @@ GO
 USE Company_Db
 GO
 
-/*******************************************************************************************************
-The following sections are commented out due to the fact that they are already covered in the exercises
-********************************************************************************************************
-
 --Add to the Departments table
 INSERT INTO Dept.Department
 (Department_Id, Department_Name)
